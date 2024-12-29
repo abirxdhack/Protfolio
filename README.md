@@ -18,12 +18,12 @@ Welcome to the source code of **Abir Arafat Chawdhury's Portfolio Website**. Thi
 ## 🛠️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abirxdhackz/portfolio-website.git
+   git clone https://github.com/abirxdhack/portfolio-website.git
    ```
 2. Open `index.html` in any browser.
 
 ## 🌐 Live Demo
-Experience the live version here: [Abir's Portfolio](https://abirxdhackz.github.io/Dev)
+Experience the live version here: [Abir's Portfolio](https://abirxdhack.github.io/Dev)
 
 ## 📂 Projects Included
 ### 1. Abir X Official Music Player
@@ -32,23 +32,23 @@ Experience the live version here: [Abir's Portfolio](https://abirxdhackz.github.
 
 ### 2. SmartVCPlayer
 - Advanced Telegram bot for voice chat streams.
-- [View Repository](https://github.com/abirxdhackz/SmartVCPlayers)
+- [View Repository](https://github.com/abirxdhack/SmartVCPlayers)
 
 ### 3. Gemini Pro Bots
 - AI-powered Telegram bot using the aiogram library.
-- [View Repository](https://github.com/abirxdhackz/GeminiProBots)
+- [View Repository](https://github.com/abirxdhack/GeminiProBots)
 
 ### 4. Mash CC Checker Bot
 - Credit card validation and BIN detail checker bot.
-- [View Repository](https://github.com/abirxdhackz/Mash-CC-Checker-Bot)
+- [View Repository](https://github.com/abirxdhack/Mash-CC-Checker-Bot)
 
 ### 5. Chat ID Fetcher Bot
 - Fetch IDs for Telegram users, bots, groups, and channels.
-- [View Repository](https://github.com/abirxdhackz/Chat-ID-Bot)
+- [View Repository](https://github.com/abirxdhack/Chat-ID-Bot)
 
 ### 6. Temp Mail Bot
 - Temporary email generator bot for Telegram.
-- [View Repository](https://github.com/abirxdhackz/TempMail-Bots)
+- [View Repository](https://github.com/abirxdhack/TempMail-Bots)
 
 ## 🌟 Skills
 ### Web Development
@@ -63,7 +63,7 @@ Experience the live version here: [Abir's Portfolio](https://abirxdhackz.github.
 Connect with me:
 
 [![Telegram](https://img.shields.io/badge/Telegram-@abirxdhackz-blue)](https://t.me/abirxdhackz)
-[![GitHub](https://img.shields.io/badge/GitHub-abirxdhackz-black)](https://github.com/abirxdhackz)
+[![GitHub](https://img.shields.io/badge/GitHub-abirxdhackz-black)](https://github.com/abirxdhack)
 [![Facebook](https://img.shields.io/badge/Facebook-Abir-blue)](https://facebook.com/abirxdhackz)
 [![Instagram](https://img.shields.io/badge/Instagram-abirxdhackz-rose)](https://instagram.com/abirxdhackz)
 [![Twitter](https://img.shields.io/badge/Twitter-@abirxdhackz-lightblue)](https://x.com/abirxdhackz)
